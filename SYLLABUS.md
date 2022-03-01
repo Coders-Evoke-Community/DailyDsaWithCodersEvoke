@@ -1,1 +1,1 @@
-# Complet DSA Syllabus
+# Complete DSA Syllabus
