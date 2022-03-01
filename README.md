@@ -1,10 +1,10 @@
 # DailyDsaWithCodersEvoke
 
 ### Join Coders Evoke Groups
-  <a href="https://discord.io/commclassroom">
+  <a href="https://discord.gg/h3AJDFyW4V">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
-    <a href="https://telegram.me/commclassroom">
+    <a href="https://t.me/+TWlz9MVHkIo4NjVl">
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
   </a> 
   </a>&ensp;
