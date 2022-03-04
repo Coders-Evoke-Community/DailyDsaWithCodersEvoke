@@ -1,1 +1,1 @@
-# Complete DSA Syllabus
+# Complete DSA Resources
