@@ -1,8 +1,8 @@
-Here are Day-5 Questions
+<h1>Here are Day-5 Questions</h1>
 
-Write a function to print following patterns:
+<h3>Write a function to print following patterns:</h3>
 
-1. Diamonnd Shape Pattern
+1. <h4>Diamonnd Shape Pattern</h4>
 <pre>
     *
    ***
@@ -14,7 +14,7 @@ Write a function to print following patterns:
    ***
     * 
 </pre>
-2. Sandglass pattern
+2. <h4>Sandglass pattern</h4>
 <pre>
 * * * * * 
  * * * * 
@@ -39,7 +39,7 @@ Write a function to print following patterns:
    * *
     *
 </pre>
-4. Pascal’s Triangle Program 
+4. <h4>Pascal’s Triangle Program</h4> 
 <pre>
              1
            1   1
