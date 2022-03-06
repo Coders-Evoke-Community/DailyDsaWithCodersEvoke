@@ -1,4 +1,4 @@
-<h2>Here are the Day 6 Questions</h2>
+<h1>Here are the Day 6 Questions</h1>
 <h3>Write a program to input x and n and find the sum of the following series</h3>
 </br>
 1. <pre>S = x<sup>1</sup> - x<sup>2</sup> + x<sup>3</sup> - x<sup>4</sup> ………… - x<sup>20</sup>; where x = 2</pre>
