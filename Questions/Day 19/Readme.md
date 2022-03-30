@@ -15,12 +15,12 @@
    fibonacci(4) = 3 <br>
    fibonacci(5) = 3 <br> <br>
    
-3. Given a binary tree, Write a method findMaxSumLevel to return the level that has the maximum sum. In case the tree is empty return -1. This problem is also known as Find Max Sum Level Problem. <br>
+3. Given a binary tree, Write a method findMaxSumLevel to return the level that has the maximum sum. In case the tree is empty return -1. This problem is also known as    Find Max Sum Level Problem. <br>
 
-Example <br>
-0 1 <br>
-/ \ <br>
-1 2 3 ==> 2 <br>
-/ \ / \ <br>
-2 4 5 6 7 <br>
+   Example <br>
+   0 1 <br>
+   / \ <br>
+   1 2 3 ==> 2 <br>
+   / \ / \ <br>
+   2 4 5 6 7 <br>
     
